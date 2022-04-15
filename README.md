@@ -12,5 +12,5 @@ Primeiro desafio do bootcamp Carrefour Web Developer
    - git status (mostra o status do projeto em relação ao git);
    - git add * (adiciona arquivos do projeto novo/editado para a stage area);
    - git commit -m "anotação" (faz uma snapshot do projeto atual, com as mudanças já staged);
-   - git push origin master (manda o projeto para o repositório remoto).
+   - git push origin main (manda o projeto para o repositório remoto).
 7. Mandar o repositório para concluir o desafio.
