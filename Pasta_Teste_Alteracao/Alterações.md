@@ -2,18 +2,18 @@
 
 ### Primeiro passo:
 
-![git_status](D:\Filipe\git_status.PNG)
+![git_status](C:\Repositórios_Git\DIO\Desafio de Projeto - Primeiro Repositório GitHub\Desafio_de_Projeto-Primeiro_repositorio_GitHub\Pasta_Teste_Alteracao\imagens\git_status.PNG)
 
 ### Segundo Passo:
 
-![git add](D:\Filipe\git add.PNG)
+![git add](C:\Repositórios_Git\DIO\Desafio de Projeto - Primeiro Repositório GitHub\Desafio_de_Projeto-Primeiro_repositorio_GitHub\Pasta_Teste_Alteracao\imagens\git add.PNG)
 
 ### Terceiro Passo:
 
-![git commit](D:\Filipe\git commit.PNG)
+![git commit](C:\Repositórios_Git\DIO\Desafio de Projeto - Primeiro Repositório GitHub\Desafio_de_Projeto-Primeiro_repositorio_GitHub\Pasta_Teste_Alteracao\imagens\git commit.PNG)
 
 ### Quarto passo:
 
-![git push](D:\Filipe\git push.PNG)
+![git push](C:\Repositórios_Git\DIO\Desafio de Projeto - Primeiro Repositório GitHub\Desafio_de_Projeto-Primeiro_repositorio_GitHub\Pasta_Teste_Alteracao\imagens\git push.PNG)
 
-![desafio](D:\Filipe\desafio.PNG)
+![desafio](C:\Repositórios_Git\DIO\Desafio de Projeto - Primeiro Repositório GitHub\Desafio_de_Projeto-Primeiro_repositorio_GitHub\Pasta_Teste_Alteracao\imagens\desafio.PNG)
